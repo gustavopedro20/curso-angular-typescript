@@ -18,7 +18,7 @@ export default class Concessionaria implements ConcessionariaInterface {
         return this.listaDeCarros
     }
 
-    fornecerHorariosDeFuncionamento(): String {
+    fornecerHorariosDeFuncionamento(): string {
         return 'De segunda a sexta das 08:00 as 18:00 e sábado das 08:00 as 12:00'
     }
 }
