@@ -1,4 +1,4 @@
-import { ConcessionariaInterface } from './ConcessionarioInterface'
+import { ConcessionariaInterface } from './ConcessionariaInterface'
 import Carro from './Carro'
 
 export default class Concessionaria implements ConcessionariaInterface {
