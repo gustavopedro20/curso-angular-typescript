@@ -1,5 +1,5 @@
 import { DaoInterface } from "./DaoInterface";
-import Carro from "./Carro";
+import Carro from "./Carro"
 
 export class MotoDao implements DaoInterface {
 
